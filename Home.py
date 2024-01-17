@@ -9,7 +9,7 @@ with col1:
 with col2:
     st.title("Mateusz Dalke")
     content = """
-    Hi, I am Mateusz. 
+    Hi, I am Mateusz.
     I'm learning python and C#.
     """
     st.info(content)
